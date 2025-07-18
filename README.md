@@ -1,0 +1,2 @@
+# groundingDINO
+CV objective reccogonition
